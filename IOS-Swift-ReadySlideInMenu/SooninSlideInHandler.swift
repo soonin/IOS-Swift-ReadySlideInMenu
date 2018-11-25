@@ -51,6 +51,7 @@ class SooninSlideInHandler: NSObject , UICollectionViewDelegate , UICollectionVi
     var settings:[Setting] = {
         return [Setting(name: "No Menu Cell Yet ?", imageName: "?")]
     }()
+    
     //    var settings:[Setting] = {
     //       return [Setting(name: "New", imageName: "addicon32x32"),
     //               Setting(name: "Help", imageName: "Helpicon32x32"),
