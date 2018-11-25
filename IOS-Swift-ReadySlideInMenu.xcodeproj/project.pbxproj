@@ -12,6 +12,7 @@
 		FAFFA8A321AA5E1300221D29 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAFFA8A121AA5E1300221D29 /* Main.storyboard */; };
 		FAFFA8A521AA5E1400221D29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAFFA8A421AA5E1400221D29 /* Assets.xcassets */; };
 		FAFFA8A821AA5E1400221D29 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAFFA8A621AA5E1400221D29 /* LaunchScreen.storyboard */; };
+		FAFFA8B021AA5E5400221D29 /* SooninSlideInHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFFA8AF21AA5E5400221D29 /* SooninSlideInHandler.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FAFFA8A421AA5E1400221D29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAFFA8A721AA5E1400221D29 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FAFFA8A921AA5E1400221D29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAFFA8AF21AA5E5400221D29 /* SooninSlideInHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SooninSlideInHandler.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				FAFFA89D21AA5E1300221D29 /* AppDelegate.swift */,
 				FAFFA89F21AA5E1300221D29 /* ViewController.swift */,
+				FAFFA8AF21AA5E5400221D29 /* SooninSlideInHandler.swift */,
 				FAFFA8A121AA5E1300221D29 /* Main.storyboard */,
 				FAFFA8A421AA5E1400221D29 /* Assets.xcassets */,
 				FAFFA8A621AA5E1400221D29 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FAFFA8A021AA5E1300221D29 /* ViewController.swift in Sources */,
+				FAFFA8B021AA5E5400221D29 /* SooninSlideInHandler.swift in Sources */,
 				FAFFA89E21AA5E1300221D29 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -283,7 +287,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 29BJ3MZQW5;
 				INFOPLIST_FILE = "IOS-Swift-ReadySlideInMenu/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -300,7 +306,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 29BJ3MZQW5;
 				INFOPLIST_FILE = "IOS-Swift-ReadySlideInMenu/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
