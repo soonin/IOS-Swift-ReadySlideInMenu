@@ -18,7 +18,7 @@ Sample app to add Ready SlideIn Menu to Your ViewControler in Few Minutes ..
 You just add one swift file to your prject .
 
 ##### For additionnal info, please watch the video : 
-[![IOS-Swift-ReadySlideInMenu](https://img.youtube.com/vi/../hqdefault.jpg)](https://www.youtube.com/channel/UCKyREAKyoyY5vxxv33pgEPQ)
+[![IOS-Swift-ReadySlideInMenu](https://img.youtube.com/vi/s2C8nQjaYp8/hqdefault.jpg)](https://youtu.be/s2C8nQjaYp8)
 
 ## License
 
